@@ -1,0 +1,81 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 22/06/2016 15:23
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-architecture:before { content: "\f100"; }
+.flaticon-art-exhibition:before { content: "\f101"; }
+.flaticon-art-gallery:before { content: "\f102"; }
+.flaticon-art-studies:before { content: "\f103"; }
+.flaticon-artist:before { content: "\f104"; }
+.flaticon-ballet:before { content: "\f105"; }
+.flaticon-book:before { content: "\f106"; }
+.flaticon-breakdance:before { content: "\f107"; }
+.flaticon-camera:before { content: "\f108"; }
+.flaticon-canvas:before { content: "\f109"; }
+.flaticon-ceramics:before { content: "\f10a"; }
+.flaticon-chef-hat:before { content: "\f10b"; }
+.flaticon-circus:before { content: "\f10c"; }
+.flaticon-clapperboard:before { content: "\f10d"; }
+.flaticon-computer:before { content: "\f10e"; }
+.flaticon-craft-art:before { content: "\f10f"; }
+.flaticon-dance:before { content: "\f110"; }
+.flaticon-design:before { content: "\f111"; }
+.flaticon-draw:before { content: "\f112"; }
+.flaticon-dress:before { content: "\f113"; }
+.flaticon-eye:before { content: "\f114"; }
+.flaticon-fine-arts:before { content: "\f115"; }
+.flaticon-geometry:before { content: "\f116"; }
+.flaticon-go-up-in-web:before { content: "\f117"; }
+.flaticon-graduated:before { content: "\f118"; }
+.flaticon-graphic-design:before { content: "\f119"; }
+.flaticon-guide:before { content: "\f11a"; }
+.flaticon-hanged-canvas:before { content: "\f11b"; }
+.flaticon-media-arts:before { content: "\f11c"; }
+.flaticon-mic-star:before { content: "\f11d"; }
+.flaticon-microphone:before { content: "\f11e"; }
+.flaticon-museum:before { content: "\f11f"; }
+.flaticon-newspaper:before { content: "\f120"; }
+.flaticon-opera:before { content: "\f121"; }
+.flaticon-painter-equipment:before { content: "\f122"; }
+.flaticon-painting:before { content: "\f123"; }
+.flaticon-parchment:before { content: "\f124"; }
+.flaticon-performing-arts:before { content: "\f125"; }
+.flaticon-poetry:before { content: "\f126"; }
+.flaticon-sculpture:before { content: "\f127"; }
+.flaticon-speaker:before { content: "\f128"; }
+.flaticon-speaker-1:before { content: "\f129"; }
+.flaticon-stage:before { content: "\f12a"; }
+.flaticon-street-art:before { content: "\f12b"; }
+.flaticon-theatre:before { content: "\f12c"; }
+.flaticon-treble-clef:before { content: "\f12d"; }
+.flaticon-university:before { content: "\f12e"; }
+.flaticon-vase:before { content: "\f12f"; }
+.flaticon-video-game:before { content: "\f130"; }
+.flaticon-violin:before { content: "\f131"; }
